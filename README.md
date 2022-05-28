@@ -1,2 +1,2 @@
 # demobtug6
-test project
+demo project
